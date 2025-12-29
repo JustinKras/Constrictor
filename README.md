@@ -4,7 +4,7 @@ Constrictor is a powerful program that immediately and completely locks your Win
 # 🛑MALWARE WARNING
 _DO NOT RUN THIS PROGRAM_
 
-_Passkey - letmein_
+*Passkey - letmein*
 
 LICENSE
 
