@@ -9,8 +9,8 @@ Constrictor is a powerful program that immediately and completely locks your Win
 # 🛑MALWARE WARNING
 _DO NOT RUN THIS PROGRAM_
 
-
-
+[!WARNING}
+[!CAUTION]
 # LICENSE
 # ⚠️ RESTRICTED MALICIOUS SOFTWARE
 ## NO LICENSE GRANTED – ALL RIGHTS RESERVED
