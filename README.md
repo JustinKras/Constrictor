@@ -2,6 +2,8 @@
 Constrictor is a powerful program that immediately and completely locks your Windows device behind a passkey.
 # *Passkey - letmein*
 
+This repository is closed source
+
 # 🛑MALWARE WARNING
 _DO NOT RUN THIS PROGRAM_
 
