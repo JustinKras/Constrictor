@@ -2,7 +2,7 @@
 ## DO NOT USE THIS PROGRAM ON ANY DEVICE THAT IS NOT SOLELY YOUR OWN
 Constrictor is a powerful program that immediately and completely locks your Windows device behind a passkey, via an unclosable window. Once run, the program offers a text entry box to input the correct passkey; otherwise, you will not be able to lift the constriction.
 
-### **Passkey - _letmein_** `#ffffff`
+### **Passkey - _letmein_**
 
 <ins>This repository is closed source</ins>
 
