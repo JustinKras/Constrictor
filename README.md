@@ -70,7 +70,7 @@ No safe harbor, fair use, or implied authorization exists.
 
 ## 4. Assumption of Risk
 
-Any person who accesses, possesses, or interacts with the Software does so **entirely at their own risk**.
+Any person who accesses, possesses, or interacts with the Software does so **entirely at their own risk**, including legal, technical, and operational consequences.
 
 The creators, authors, contributors, and rights holders **do not authorize** any such interaction and expressly **disclaim responsibility** for all consequences arising therefrom.
 
