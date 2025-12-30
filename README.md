@@ -16,7 +16,6 @@ _DO NOT RUN THIS PROGRAM_
 
 # ⚠️MALICIOUS SOFTWARE
 
---
 
 ## Educational and Entertainment Purpose
 
