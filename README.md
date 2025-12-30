@@ -19,12 +19,12 @@ _DO NOT RUN THIS PROGRAM_
 --
 
 ## Educational and Entertainment Purpose
---
+
 This software is provided solely for educational, experimental, and entertainment purposes.
 It is intended to demonstrate concepts, techniques, or ideas in a controlled and lawful manner.
---
+
 # Use at Your Own Risk
---
+
 ## This software is provided “AS IS” and “AT YOUR OWN RISK.”
---
+
 You assume full responsibility for how you choose to use the software.
